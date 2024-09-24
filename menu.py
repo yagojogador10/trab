@@ -1,3 +1,4 @@
+
 def menu():
     # Criação das bombas com valores iniciais
     bomba_etanol = "BombaEtanol" (valor_litro=3.50, quantidade_disponivel=1000)
@@ -78,5 +79,4 @@ def menu():
         else:
             print("Opção inválida. Por favor, escolha uma opção entre 1 e 9.")
 
-# Rodar o menu
 menu()
